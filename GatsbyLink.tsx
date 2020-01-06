@@ -1,7 +1,6 @@
-import * as React from 'react';
-
-import {Link as GLink} from 'gatsby';
 import {Link} from 'components/editable';
+import {Link as GLink} from 'gatsby';
+import React from 'react';
 
 export class GatsbyLink extends Link {
 	render(): React.ReactNode {

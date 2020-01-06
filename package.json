@@ -1,19 +1,19 @@
 {
-  "name": "gatsby",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/gatsby.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "gatsby": "http://github.com/michaelord/gatsby.git",
-    "components/editable": "http://github.com/michaelord/editable.git",
-    "components/navigation": "http://github.com/michaelord/navigation.git"
-  }
+	"name": "gatsby",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/gatsby.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"gatsby": "http://github.com/michaelord/gatsby.git",
+		"components/navigation": "http://github.com/michaelord/navigation.git"
+	}
 }
